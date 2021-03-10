@@ -1,0 +1,4 @@
+0 mamiferos
+1 aves
+2 reptiles
+3 peces
